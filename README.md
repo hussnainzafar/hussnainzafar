@@ -82,13 +82,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hussnainzafar&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
----
 
 ## 📞 Let's Connect!  
 📧 **Email:** [zhussnain19@gmail.com](mailto:zhussnain19@gmail.com)  
