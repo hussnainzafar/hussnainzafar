@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-💡 **Software Engineer** with **5+ years of experience** in **Python, AI/ML, Django, FastAPI, React.js, and Cloud Computing**.  
+💡 **Software Engineer** with **5+ years of experience** in **Python, AI/ML, Django, FastAPI, React.js, Next.js, and Cloud Computing**.  
 🔍 Specializing in **scalable solutions**, **high-performance backend systems**, and **AI-driven applications**.  
 🌍 Open to **remote work opportunities** in **Full Stack Development & AI/ML Engineering**.  
 
