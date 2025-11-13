@@ -1,4 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=06C996&background=FF331B00&center=true&vCenter=true&multiline=true&random=true&width=1500&height=100&lines=LangChain+%7C+LLM+%7C+Python" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=06C996&background=FF331B00&center=true&vCenter=true&multiline=true&random=true&width=1500&height=100&lines=Python+%7C+AI%2FML+%7C+Django+%7C+FastAPI+%7C+React.js+%7C+Next.js" alt="Typing SVG" />
+</a>
+
 
 <h1 align="center">Hi, I'm Hafiz Hussnain Zafar 👋</h1>
 <h3 align="center">🚀 Full Stack Engineer | AI/ML Developer | Python Expert</h3>
