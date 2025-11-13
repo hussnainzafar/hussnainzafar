@@ -1,6 +1,8 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=06C996&background=FF331B00&center=true&vCenter=true&multiline=true&random=true&width=1500&height=100&lines=Python+%7C+AI%2FML+%7C+Django+%7C+FastAPI+%7C+React.js+%7C+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=900&color=06C996&background=00000000&center=true&vCenter=true&width=1500&height=110&lines=Building+Intelligent+Experiences+with+Code+%26+Creativity+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
+
+
 
 
 <h1 align="center">Hi, I'm Hafiz Hussnain Zafar 👋</h1>
