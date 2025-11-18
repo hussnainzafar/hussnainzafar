@@ -91,7 +91,7 @@
 ## 📞 Let's Connect!  
 📧 **Email:** [zhussnain19@gmail.com](mailto:zhussnain19@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/hafiz-hussnain-zafar](https://www.linkedin.com/in/hafiz-hussnain-zafar/)  
-💼 **Portfolio:** hafizhussnainzafar.com 
+💼 **Portfolio:** [hafizhussnainzafar](hafizhussnainzafar.com)
 
 ---
 
